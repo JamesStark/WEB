@@ -1,0 +1,11 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "I'm not Perfect, I'm Just me",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Stark",
+  "license": "ISC"
+}
